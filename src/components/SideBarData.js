@@ -8,7 +8,17 @@ export const SideBarData =[
         link:''
     },
     {
-        name:'Home',
+        name:'Dashboard',
+        icon:'',
+        link:''
+    },
+    {
+        name:'About',
+        icon:'',
+        link:''
+    },
+    {
+        name:'Contact',
         icon:'',
         link:''
     },
