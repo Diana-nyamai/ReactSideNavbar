@@ -21,7 +21,7 @@ export const SideBarData =[
         name:'Contact',
         icon:'',
         link:''
-    },
+    }
 ] 
   
 
