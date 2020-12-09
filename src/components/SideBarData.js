@@ -1,10 +1,10 @@
 import React from 'react';
-
+import { Home } from '@material-ui/icons';
 
 export const SideBarData =[
     {
         name:'Home',
-        icon:'',
+        icon:<Home/>,
         link:''
     },
     {

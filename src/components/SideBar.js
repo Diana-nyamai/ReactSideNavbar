@@ -7,8 +7,8 @@ function SideBar() {
            <ul>
            {SideBarData.map((value, key) =>{
                return 
-               <li key={key} onClick={()=>{window.Location.pathname = value.link}}>{""}
-               <div>{value.icon}</div>{""}
+               <li key={key} onClick={()=>{window.Location.pathname = value.link}}>
+               <div>{value.icon}</div>
                <div>{value.name}</div>
                </li>
            })}
