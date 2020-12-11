@@ -16,6 +16,7 @@
   height: auto;
   width: 100%;
   padding: 0;
+  color: aliceblue;
 }
 .sidebarlist .row{
   width: 100%;
@@ -24,4 +25,5 @@
   border: ipx solid black;
   display: flex;
   flex-direction: row;
+  color: aliceblue;
 }
