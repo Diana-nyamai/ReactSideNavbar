@@ -1,5 +1,6 @@
 import React from 'react';
-import HomeIcon from '@material-ui/icons/Home';
+import  HomeIcon from '@material-ui/icons/Home';
+import DashboardIcon from '@material-ui/icons/Dashboard';
 
 export const SideBarData =[
     {
