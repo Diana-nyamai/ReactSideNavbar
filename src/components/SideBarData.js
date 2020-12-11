@@ -9,27 +9,27 @@ export const SideBarData =[
     {
         name:'Home',
         icon:<HomeIcon/>,
-        link:''
+        link:'/Home'
     },
     {
         name:'Dashboard',
         icon:<DashboardIcon/>,
-        link:''
+        link:'/Dashboard'
     },
     {
         name:'Analytis',
         icon:<PollIcon/>,
-        link:''
+        link:'/Analytics'
     },
     {
         name:'Mail',
         icon:<MailIcon/>,
-        link:''
+        link:'/Mail'
     },
     {
         name:'Images',
         icon:<ImageIcon />,
-        link:''
+        link:'/Images'
     },
 ] 
   
