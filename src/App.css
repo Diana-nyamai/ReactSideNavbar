@@ -15,4 +15,13 @@
 .sidebarlist{
   height: auto;
   width: 100%;
+  padding: 0;
+}
+.sidebarlist .row{
+  width: 100%;
+  height: 60px;
+  list-style-type: none;
+  border: ipx solid black;
+  display: flex;
+  flex-direction: row;
 }
