@@ -1,7 +1,9 @@
 import React from 'react';
 import  HomeIcon from '@material-ui/icons/Home';
 import DashboardIcon from '@material-ui/icons/Dashboard';
-
+import PollIcon from '@material-ui/icons/Poll';
+import MailIcon from '@material-ui/icons/Mail';
+import ImageIcon from '@material-ui/icons/Image';
 
 export const SideBarData =[
     {
@@ -16,17 +18,17 @@ export const SideBarData =[
     },
     {
         name:'Analytis',
-        icon:<ContactsIcon/>,
+        icon:<PollIcon/>,
         link:''
     },
     {
         name:'Mail',
-        icon:<InfoIcon/>,
+        icon:<MailIcon/>,
         link:''
     },
     {
         name:'Images',
-        icon:<ContactsIcon/>,
+        icon:<ImageIcon />,
         link:''
     },
 ] 
