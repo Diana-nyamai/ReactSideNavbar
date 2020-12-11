@@ -4,7 +4,7 @@ import { SideBarData } from './SideBarData'
 function SideBar() {
     return (
         <div className="side-bar">
-           <ul>
+           <ul className="sidebarlist">
            {SideBarData.map((value, key) =>{
                return(
                <li key={key} onClick={()=>{window.location.pathname = value.linkc}}>

@@ -12,3 +12,7 @@
   height: 100vh;
   background-color: rgb(69, 74, 114);
 }
+.sidebarlist{
+  height: auto;
+  width: 100%;
+}
