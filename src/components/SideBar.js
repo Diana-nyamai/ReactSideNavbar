@@ -8,7 +8,7 @@ function SideBar() {
            {SideBarData.map((value, key) =>{
                return(
                <li key={key} onClick={()=>{window.location.pathname = value.linkc}}>
-               <divup>{value.icon}</div>
+               <div>{value.icon}</div>
                <div>{value.name}</div>
                </li>
                );
