@@ -1,7 +1,7 @@
 *{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+
 }
 .App {
   width: 100vw;
@@ -32,7 +32,7 @@
   background-color:  rgb(51, 37, 83);
 }
 .sidebarlist .row:hover{
-  cursor: pointer;
+  cursor: pointer
   background-color: rgb(51, 37, 83);
 }
 .row #icon{
